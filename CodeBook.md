@@ -1,7 +1,7 @@
 ## Getting and Cleaning Data Course Project
  The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
-Variables
+##Variables
 subject_test: Load subject_test.txt
 y_Test : Load y_test.txt
 x_Test : Load X_test.txt
@@ -17,7 +17,7 @@ AllData : Complete Data
 
 
 
-Appropriately labeled the data set with descriptive variable names.
+##Appropriately labeled the data set with descriptive variable names.
 "-mean()" to "Mean"
 "-std()" to "STD"
 "^t" to "Time"
