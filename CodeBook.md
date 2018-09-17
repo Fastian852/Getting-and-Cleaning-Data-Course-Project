@@ -12,10 +12,8 @@ featuresD: Load features.txt
 activity_labels: Load activity_labels.txt
 subject: combine subject_train and subject_test
 activity : combine y_train and y_Test
-features: combine x_train and  x_Test	
+features: combine x_train and  x_Test
 AllData : Complete Data
-
-
 
 ## Appropriately labeled the data set with descriptive variable names.
 "-mean()" to "Mean"
